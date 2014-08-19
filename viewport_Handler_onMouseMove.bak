@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------
+--  Handler.......... : onMouseMove
+--  Author........... : 
+--  Description...... : 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+function viewport.onMouseMove ( nPointX, nPointY, nDeltaX, nDeltaY, nRayPntX, nRayPntY, nRayPntZ, nRayDirX, nRayDirY, nRayDirZ )
+--------------------------------------------------------------------------------
+	
+    
+    --local hplayer1 = this.getUser ( )
+    --local hscene = user.getScene ( hplayer1 )
+	--local hHitObject, nHitDist, nHitSensorID =  scene.getFirstHitSensor ( hscene, nRayPntX, nRayPntY, nRayPntZ, nRayDirX, nRayDirY, nRayDirZ, 100 )
+	
+   -- log.message ( hHitObject )
+    --log.message ( nHitSensorID )  
+    
+    
+    
+--------------------------------------------------------------------------------
+end
+--------------------------------------------------------------------------------

@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -34,3 +35,27 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+BasicSensorDemoMain_Handler_onInit.lua
+BasicSensor_Handler_onEnterFrame.lua
+BasicSensor_Handler_onSensorCollision.lua
+BasicSensor_Handler_onSensorCollision.lua
+Crate_Function_setupDynamics.lua
+Crate_Handler_onInit.lua
+Crate_Handler_onInit.lua
+FPSCamera_Function_createHUD.lua
+FPSCamera_Function_setupDynamics.lua
+FPSCamera_Function_setupDynamics.lua
+FPSCamera_Function_centerMouse.lua
+FPSCamera_Function_centerMouse.lua
+FPSCamera_Function_showMouse.lua
+FPSCamera_Function_showMouse.lua
+FPSCamera_Function_updateVision.lua
+FPSCamera_Function_updateDynamics.lua
+FPSCamera_Function_updateDynamics.lua
+FPSCamera_Function_updateWeapon.lua
+FPSCamera_Handler_onCaptureInput.lua
+FPSCamera_Handler_onCaptureInput.lua
+fpsCamAi_Function_centermouse.lua
+fpsCamAi_Handler_onEnterFrame.lua
+fpsCamAi_Handler_onEnterFrame.lua
